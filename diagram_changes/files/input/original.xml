@@ -1,0 +1,213 @@
+<mxGraphModel dx="1940" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" lxXmlVersion="1">
+  <root>
+    <lx-settings mappingTemplate="leanix-default" id="0">
+      <mxCell />
+    </lx-settings>
+    <mxCell id="1" parent="0" />
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="09b55fc8-b7b4-45e7-b182-83de3f5f44ee" sourceFactSheetId="ef6a07b8-c252-4054-acb3-a710ec82c637" targetFactSheetId="ddcc0f4b-a1f8-48c1-994d-1e80d7f746ee" id="42">
+      <mxCell style="leanix_dependency" parent="1" source="6" target="27" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="65a6a61e-d6e6-43ec-947d-d13b540df565" sourceFactSheetId="ef6a07b8-c252-4054-acb3-a710ec82c637" targetFactSheetId="a97d05c9-6695-443e-9f83-42eab141d07f" id="41">
+      <mxCell style="leanix_dependency" parent="1" source="6" target="26" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="3cc9e4ff-3da5-4d56-93cc-17318f2b9db6" sourceFactSheetId="ef6a07b8-c252-4054-acb3-a710ec82c637" targetFactSheetId="14a29d03-e96e-4bb7-8ac7-24c168b44fbf" id="40">
+      <mxCell style="leanix_dependency" parent="1" source="6" target="25" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="a4628747-2ca3-47b3-866b-42f9ef3190e2" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="b9b13c59-cf09-46a7-a150-478a464cfa38" id="39">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="24" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="b691fd9c-bb48-4ea3-aa67-0931435ade9d" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="4a29ee5c-56bd-4db9-9360-d065f0f34f23" id="38">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="23" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="94c91662-553c-4ea9-8265-721eefb04b85" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="c408569d-b925-44f5-a5b8-48e89f623eb9" id="37">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="22" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="cbba45fe-f802-415a-afba-22fda65314fe" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="2f17a77f-036e-448b-80c6-4873f30b6ed5" id="36">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="21" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="8c0f839e-1c4f-4e91-8916-0f3103214782" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="26be83c4-2b7f-479e-b3f9-ef0006db54ba" id="35">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="20" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="ae9031e1-3a65-49cf-9f50-cb1aaec76f60" sourceFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" targetFactSheetId="8f021f46-67e1-4ec5-aae2-e11a05dad253" id="34">
+      <mxCell style="leanix_dependency" parent="1" source="4" target="19" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="86e607e7-990f-457d-a2f0-0164455dbc16" sourceFactSheetId="3615c0bf-d16a-41b0-89f6-076936af8acd" targetFactSheetId="dec8a3f7-f291-4075-8fb2-4221c6ed140b" id="33">
+      <mxCell style="leanix_dependency" parent="1" source="7" target="18" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="afbe9e66-3cf5-4c72-8735-5a977479e43b" sourceFactSheetId="3615c0bf-d16a-41b0-89f6-076936af8acd" targetFactSheetId="5d927321-84b2-47ec-8653-25110ccf9872" id="32">
+      <mxCell style="leanix_dependency" parent="1" source="7" target="17" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="328362eb-af9a-4fdc-a9f2-58ff20816dbf" sourceFactSheetId="0df86061-5aef-4d8e-8ff1-ddcdd469f1af" targetFactSheetId="4e7db63e-92ef-4c75-80ce-790af877c3fa" id="31">
+      <mxCell style="leanix_dependency" parent="1" source="5" target="16" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="f3337162-bd6f-41b6-bf4a-4a3ce1ef7b03" sourceFactSheetId="0df86061-5aef-4d8e-8ff1-ddcdd469f1af" targetFactSheetId="6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c" id="30">
+      <mxCell style="leanix_dependency" parent="1" source="5" target="15" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="3006b80f-f5aa-4ad9-9277-573d91f06582" sourceFactSheetId="0df86061-5aef-4d8e-8ff1-ddcdd469f1af" targetFactSheetId="28fe4aa2-6e46-41a1-a131-72afb3acf256" id="29">
+      <mxCell style="leanix_dependency" parent="1" source="5" target="14" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelBusinessCapabilityToApplication" relationId="685c76f6-565f-4ac9-bf05-baa4afb7eb14" sourceFactSheetId="0a2a8510-40de-450b-b4ad-ee6efa6dbefc" targetFactSheetId="0f535fd8-5ef6-42b1-85dd-b87ebd19224c" id="28">
+      <mxCell style="leanix_dependency" parent="1" source="3" target="13" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelToChild" relationId="dbdd22bc-6e2a-4609-8a6a-ef02d31aaaa5" sourceFactSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" targetFactSheetId="3615c0bf-d16a-41b0-89f6-076936af8acd" id="12">
+      <mxCell style="leanix_dependency" parent="1" source="2" target="7" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelToChild" relationId="d92035d7-3970-43df-b894-49e9ad446e06" sourceFactSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" targetFactSheetId="ef6a07b8-c252-4054-acb3-a710ec82c637" id="11">
+      <mxCell style="leanix_dependency" parent="1" source="2" target="6" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelToChild" relationId="f3456d5f-3acf-4d1b-8865-81f84557db10" sourceFactSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" targetFactSheetId="0df86061-5aef-4d8e-8ff1-ddcdd469f1af" id="10">
+      <mxCell style="leanix_dependency" parent="1" source="2" target="5" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelToChild" relationId="e1a3d1f8-739d-41d5-aa39-5e03c2f8c62e" sourceFactSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" targetFactSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" id="9">
+      <mxCell style="leanix_dependency" parent="1" source="2" target="4" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="relation" dependencyRelation="RelToChild" relationId="db968cce-d05f-4b03-9660-050059d8b20f" sourceFactSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" targetFactSheetId="0a2a8510-40de-450b-b4ad-ee6efa6dbefc" id="8">
+      <mxCell style="leanix_dependency" parent="1" source="2" target="3" edge="1">
+        <mxGeometry relative="1" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="HR" factSheetType="BusinessCapability" factSheetId="9aa297ff-4177-47f5-8ccf-b3b67a73d63b" id="2">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="320" y="-100.00001220703126" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Attendance Management" factSheetType="BusinessCapability" factSheetId="0a2a8510-40de-450b-b4ad-ee6efa6dbefc" id="3">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="40" y="210" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Employee lifecycle Management" factSheetType="BusinessCapability" factSheetId="977b2f4b-ff5b-46c2-b848-2d2aee596211" id="4">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="510" y="210" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Recruiting" factSheetType="BusinessCapability" factSheetId="0df86061-5aef-4d8e-8ff1-ddcdd469f1af" id="5">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="180" y="210" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Training &amp; Skills Enhancements" factSheetType="BusinessCapability" factSheetId="ef6a07b8-c252-4054-acb3-a710ec82c637" id="6">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="840" y="210" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Workforce Management" factSheetType="BusinessCapability" factSheetId="3615c0bf-d16a-41b0-89f6-076936af8acd" id="7">
+      <mxCell style="leanix_fs_BusinessCapability" parent="1" vertex="1">
+        <mxGeometry x="300" y="210" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Time Track" factSheetType="Application" factSheetId="0f535fd8-5ef6-42b1-85dd-b87ebd19224c" id="13">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="-160" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="AC Management" factSheetType="Application" factSheetId="28fe4aa2-6e46-41a1-a131-72afb3acf256" id="14">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="-70" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Jobwatch" factSheetType="Application" factSheetId="6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c" id="15">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="20" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Monsta" factSheetType="Application" factSheetId="4e7db63e-92ef-4c75-80ce-790af877c3fa" id="16">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="110" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="HR Plan" factSheetType="Application" factSheetId="5d927321-84b2-47ec-8653-25110ccf9872" id="17">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="200" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="WebTime" factSheetType="Application" factSheetId="dec8a3f7-f291-4075-8fb2-4221c6ed140b" id="18">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="290" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="EmpAppraise" factSheetType="Application" factSheetId="8f021f46-67e1-4ec5-aae2-e11a05dad253" id="19">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="380" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="HR Admin" factSheetType="Application" factSheetId="26be83c4-2b7f-479e-b3f9-ef0006db54ba" id="20">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="470" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Payroll Europe" factSheetType="Application" factSheetId="2f17a77f-036e-448b-80c6-4873f30b6ed5" id="21">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="560" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Payroll Germany" factSheetType="Application" factSheetId="c408569d-b925-44f5-a5b8-48e89f623eb9" id="22">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="650" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Payroll RoW" factSheetType="Application" factSheetId="4a29ee5c-56bd-4db9-9360-d065f0f34f23" id="23">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="740" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Salary Compact" factSheetType="Application" factSheetId="b9b13c59-cf09-46a7-a150-478a464cfa38" id="24">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="830" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="ExecuTrack" factSheetType="Application" factSheetId="14a29d03-e96e-4bb7-8ac7-24c168b44fbf" id="25">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="920" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Training Management" factSheetType="Application" factSheetId="a97d05c9-6695-443e-9f83-42eab141d07f" id="26">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="1010" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+    <object type="factSheet" label="Training Plan" factSheetType="Application" factSheetId="ddcc0f4b-a1f8-48c1-994d-1e80d7f746ee" id="27">
+      <mxCell style="leanix_fs_Application" parent="1" vertex="1">
+        <mxGeometry x="1100" y="500" width="80" height="45" as="geometry" />
+      </mxCell>
+    </object>
+  </root>
+</mxGraphModel>
