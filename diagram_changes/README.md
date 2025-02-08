@@ -4,6 +4,9 @@ A Python-based tool for detecting and visualizing changes between XML-based diag
 
 > **Note:** The recommended way to use this tool is through the Jupyter notebook interface (`diagram_changes.ipynb`). The notebook provides an interactive, step-by-step workflow with visualizations and detailed explanations of the changes.
 
+## Example
+![Example](https://github.com/user-attachments/assets/7997da9d-5661-4af1-aa81-5cac7e4d76da)
+
 ## Project Structure
 
 ```
