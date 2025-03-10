@@ -1,6 +1,12 @@
 {
   "addedFactSheets": [
     {
+      "label": "Content Creation",
+      "factSheetType": "BusinessCapability",
+      "factSheetId": "6e82e516-e668-43c5-b66e-c3fede5b2a2e",
+      "objectId": "43"
+    },
+    {
       "label": "Adobe Photoshop",
       "factSheetType": "Application",
       "factSheetId": "37f6115e-d572-4880-a0d8-70b79a956d9d",
@@ -17,12 +23,6 @@
       "factSheetType": "BusinessCapability",
       "factSheetId": "baaf0195-b5eb-4f01-bf95-bb1a633a5eea",
       "objectId": "45"
-    },
-    {
-      "label": "Content Creation",
-      "factSheetType": "BusinessCapability",
-      "factSheetId": "6e82e516-e668-43c5-b66e-c3fede5b2a2e",
-      "objectId": "43"
     }
   ],
   "removedFactSheets": [
@@ -33,10 +33,10 @@
       "objectId": "27"
     },
     {
-      "label": "Recruiting",
-      "factSheetType": "BusinessCapability",
-      "factSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
-      "objectId": "5"
+      "label": "Jobwatch",
+      "factSheetType": "Application",
+      "factSheetId": "6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c",
+      "objectId": "15"
     },
     {
       "label": "Monsta",
@@ -45,41 +45,19 @@
       "objectId": "16"
     },
     {
+      "label": "Recruiting",
+      "factSheetType": "BusinessCapability",
+      "factSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
+      "objectId": "5"
+    },
+    {
       "label": "AC Management",
       "factSheetType": "Application",
       "factSheetId": "28fe4aa2-6e46-41a1-a131-72afb3acf256",
       "objectId": "14"
-    },
-    {
-      "label": "Jobwatch",
-      "factSheetType": "Application",
-      "factSheetId": "6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c",
-      "objectId": "15"
     }
   ],
   "changedFactSheets": [
-    {
-      "label": "Adobe Photoshop",
-      "factSheetType": "Application",
-      "factSheetId": "37f6115e-d572-4880-a0d8-70b79a956d9d",
-      "objectId": "27",
-      "changes": {
-        "factSheetId": {
-          "from": "ddcc0f4b-a1f8-48c1-994d-1e80d7f746ee",
-          "to": "37f6115e-d572-4880-a0d8-70b79a956d9d"
-        },
-        "label": {
-          "from": "Training Plan",
-          "to": "Adobe Photoshop"
-        },
-        "mxCell": {
-          "style": {
-            "from": "leanix_fs_Application",
-            "to": "leanix_fs_Application;"
-          }
-        }
-      }
-    },
     {
       "label": "Training & Skills Enhancements",
       "factSheetType": "BusinessCapability",
@@ -91,6 +69,22 @@
             "x": {
               "from": "840",
               "to": "1010"
+            }
+          }
+        }
+      }
+    },
+    {
+      "label": "Attendance Management",
+      "factSheetType": "BusinessCapability",
+      "factSheetId": "0a2a8510-40de-450b-b4ad-ee6efa6dbefc",
+      "objectId": "3",
+      "changes": {
+        "mxCell": {
+          "geometry": {
+            "x": {
+              "from": "40",
+              "to": "-160"
             }
           }
         }
@@ -113,17 +107,23 @@
       }
     },
     {
-      "label": "Attendance Management",
-      "factSheetType": "BusinessCapability",
-      "factSheetId": "0a2a8510-40de-450b-b4ad-ee6efa6dbefc",
-      "objectId": "3",
+      "label": "Adobe Photoshop",
+      "factSheetType": "Application",
+      "factSheetId": "37f6115e-d572-4880-a0d8-70b79a956d9d",
+      "objectId": "27",
       "changes": {
+        "factSheetId": {
+          "from": "ddcc0f4b-a1f8-48c1-994d-1e80d7f746ee",
+          "to": "37f6115e-d572-4880-a0d8-70b79a956d9d"
+        },
+        "label": {
+          "from": "Training Plan",
+          "to": "Adobe Photoshop"
+        },
         "mxCell": {
-          "geometry": {
-            "x": {
-              "from": "40",
-              "to": "-160"
-            }
+          "style": {
+            "from": "leanix_fs_Application",
+            "to": "leanix_fs_Application;"
           }
         }
       }
@@ -132,26 +132,26 @@
   "addedRelations": [
     {
       "dependencyRelation": "RelToChild",
-      "relationId": "5a4caae9-9a20-4b18-a5e5-b2e4df90ed93",
-      "sourceFactSheetId": "6e82e516-e668-43c5-b66e-c3fede5b2a2e",
-      "targetFactSheetId": "63e940dd-db99-4bf6-91d5-91f701013048",
-      "objectId": "46"
-    },
-    {
-      "dependencyRelation": "RelToChild",
       "relationId": "e3653b32-34ac-454f-af5d-07515af76d28",
       "sourceFactSheetId": "6e82e516-e668-43c5-b66e-c3fede5b2a2e",
       "targetFactSheetId": "baaf0195-b5eb-4f01-bf95-bb1a633a5eea",
       "objectId": "47"
+    },
+    {
+      "dependencyRelation": "RelToChild",
+      "relationId": "5a4caae9-9a20-4b18-a5e5-b2e4df90ed93",
+      "sourceFactSheetId": "6e82e516-e668-43c5-b66e-c3fede5b2a2e",
+      "targetFactSheetId": "63e940dd-db99-4bf6-91d5-91f701013048",
+      "objectId": "46"
     }
   ],
   "removedRelations": [
     {
-      "dependencyRelation": "RelBusinessCapabilityToApplication",
-      "relationId": "f3337162-bd6f-41b6-bf4a-4a3ce1ef7b03",
-      "sourceFactSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
-      "targetFactSheetId": "6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c",
-      "objectId": "30"
+      "dependencyRelation": "RelToChild",
+      "relationId": "f3456d5f-3acf-4d1b-8865-81f84557db10",
+      "sourceFactSheetId": "9aa297ff-4177-47f5-8ccf-b3b67a73d63b",
+      "targetFactSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
+      "objectId": "10"
     },
     {
       "dependencyRelation": "RelBusinessCapabilityToApplication",
@@ -168,11 +168,11 @@
       "objectId": "29"
     },
     {
-      "dependencyRelation": "RelToChild",
-      "relationId": "f3456d5f-3acf-4d1b-8865-81f84557db10",
-      "sourceFactSheetId": "9aa297ff-4177-47f5-8ccf-b3b67a73d63b",
-      "targetFactSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
-      "objectId": "10"
+      "dependencyRelation": "RelBusinessCapabilityToApplication",
+      "relationId": "f3337162-bd6f-41b6-bf4a-4a3ce1ef7b03",
+      "sourceFactSheetId": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
+      "targetFactSheetId": "6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c",
+      "objectId": "30"
     },
     {
       "dependencyRelation": "RelBusinessCapabilityToApplication",
@@ -185,17 +185,47 @@
   "changedRelations": [],
   "addedObjects": [
     {
-      "label": "New Image App",
-      "objectId": "50"
-    },
-    {
       "label": "New Video App",
       "objectId": "49"
+    },
+    {
+      "label": "New Image App",
+      "objectId": "50"
     }
   ],
   "removedObjects": [],
   "changedObjects": [],
   "addedCells": [
+    {
+      "style": "rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;",
+      "parent": "1",
+      "edge": "1",
+      "source": "44",
+      "target": "50",
+      "id": "51",
+      "geometry": {
+        "x": null,
+        "y": null,
+        "width": null,
+        "height": null,
+        "relative": "1"
+      }
+    },
+    {
+      "style": "rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;",
+      "parent": "1",
+      "edge": "1",
+      "source": "2",
+      "target": "43",
+      "id": "55",
+      "geometry": {
+        "x": null,
+        "y": null,
+        "width": null,
+        "height": null,
+        "relative": "1"
+      }
+    },
     {
       "style": "edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];",
       "parent": "51",
@@ -211,15 +241,14 @@
       }
     },
     {
-      "style": "rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;",
-      "parent": "1",
-      "edge": "1",
-      "source": "44",
-      "target": "50",
-      "id": "51",
+      "style": "edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];",
+      "parent": "55",
+      "vertex": "1",
+      "id": "56",
+      "value": "This relation doesn't make sense",
       "geometry": {
-        "x": null,
-        "y": null,
+        "x": "0.0612",
+        "y": "3",
         "width": null,
         "height": null,
         "relative": "1"
@@ -246,35 +275,6 @@
       "source": "45",
       "target": "49",
       "id": "52",
-      "geometry": {
-        "x": null,
-        "y": null,
-        "width": null,
-        "height": null,
-        "relative": "1"
-      }
-    },
-    {
-      "style": "edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];",
-      "parent": "55",
-      "vertex": "1",
-      "id": "56",
-      "value": "This relation doesn't make sense",
-      "geometry": {
-        "x": "0.0612",
-        "y": "3",
-        "width": null,
-        "height": null,
-        "relative": "1"
-      }
-    },
-    {
-      "style": "rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;",
-      "parent": "1",
-      "edge": "1",
-      "source": "2",
-      "target": "43",
-      "id": "55",
       "geometry": {
         "x": null,
         "y": null,
